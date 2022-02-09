@@ -1,4 +1,4 @@
- ## Hi there, I'm Shaun 👋 
+ # Hi there, I'm Shaun 👋 
 
 ## I'm a Software Engineer!
 
@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/shaun-perry#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shaun-perry#gh-dark-mode-only)
+[![website](./img/Linkedin.svg)](https://linkedin.com/in/shaun-perry#gh-light-mode-only)
+[![website](./img/Linkedin.svg)](https://linkedin.com/in/shaun-perry#gh-dark-mode-only)
 
 
 ### Languages and Tools:
