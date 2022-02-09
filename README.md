@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-([Linkedin]<img align="left" alt="LinkedIn" width="26px" src="./images/Linkedin.png" style="padding-right:10px;" />)
+[![website](./images/Linkedin.png)](https://linkedin.com/in/shaun-perry)
 
 <br/>
 
