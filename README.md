@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/Linkedin.svg)](https://linkedin.com/in/shaun-perry#gh-light-mode-only)
-[![website](./img/Linkedin.svg)](https://linkedin.com/in/shaun-perry#gh-dark-mode-only)
+[![linkedin](./img/Linkedin.svg)](https://linkedin.com/in/shaun-perry#gh-light-mode-only)
+[![linkedin](./img/Linkedin.svg)](https://linkedin.com/in/shaun-perry#gh-dark-mode-only)
 
 
 ### Languages and Tools:
