@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="LinkedIn" width="26px" src="./images/Linkedin.png" style="padding-right:10px;" />
+([Linkedin]<img align="left" alt="LinkedIn" width="26px" src="./images/Linkedin.png" style="padding-right:10px;" />)
 
 <br/>
 
