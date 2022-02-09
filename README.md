@@ -16,6 +16,10 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/color/144/000000/visual-studio.png" style="padding-right:10px;" />
+<img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png" 
+style="padding-right:10px;" />
+<img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/48/000000/python--v2.png" 
+style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
