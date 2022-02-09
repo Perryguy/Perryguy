@@ -10,6 +10,8 @@
 
 <img align="left" alt="LinkedIn" width="26px" src="./images/Linkedin.png" style="padding-right:10px;" />
 
+<br/>
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
