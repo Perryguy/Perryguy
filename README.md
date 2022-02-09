@@ -2,9 +2,9 @@
 
 ## I'm a Software Engineer!
 
-- 🔭 I’m currently working on a fun Santa Tracker for the RAF Esports association
-- 📖 I'm currently reading 'Introduction to ALGORITHMS'
-- 🥅 2022 Goals: To continue to learn and progress as a dev
+- 🔭 I’m currently working on a fun Santa Tracker for the RAF Esports association.
+- 📖 I'm currently reading 'Introduction to ALGORITHMS'.
+- 🥅 2022 Goals: To continue to learn and progress as a dev.
 
 ### Connect with me:
 
